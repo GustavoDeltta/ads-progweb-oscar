@@ -1,0 +1,16 @@
+{
+  "name": "oscar2024",
+  "version": "1.0.0",
+  "description": "Projeto pocket desenvolvido para a cadeira de Programação e Desenvolvimento Web II",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.3"
+  }
+}
